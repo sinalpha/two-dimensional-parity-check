@@ -1,4 +1,4 @@
-# pin-point-trick    
+# 16Byte pin-point-trick    
 
 # Input example :    
 
