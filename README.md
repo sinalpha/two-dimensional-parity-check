@@ -1,4 +1,4 @@
-# 16Byte Two-Dimensional-Parity
+# 16Byte input Two-Dimensional-Parity
 
 # Input example :    
 
