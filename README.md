@@ -1,4 +1,4 @@
-# 16Byte pin-point-trick    
+# 16Byte Two-Dimensional-Parity
 
 # Input example :    
 
