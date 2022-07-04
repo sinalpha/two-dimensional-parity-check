@@ -1,5 +1,8 @@
 # 16Byte input Two-Dimensional-Parity
 
+two dimensional parity is Error detection code      
+more detailed explain : https://thecsemonk.com/two-dimensional-parity/    
+
 # Input example :    
 
 FIRST :     
